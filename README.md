@@ -18,7 +18,8 @@ npm install react-native-uking-lottie  or yarn add react-native-uking-lottie
 
 ##ANDROID
 
-    **android/app/build.gradle**
+   **android/app/build.gradle**
+    
     compileSdkVersion 26
     buildToolsVersion '26.0.2'
 
