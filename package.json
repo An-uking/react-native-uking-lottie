@@ -1,0 +1,30 @@
+{
+  "name": "react-native-uking-lottie",
+  "version": "0.0.1",
+  "description": "lottie component for React Native SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/An-uking/react-native-uking-lottie.git"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "SDK",
+    "lottie"
+  ],
+  "author": "uking",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/An-uking/react-native-uking-lottie/issues"
+  },
+  "homepage": "https://github.com/An-uking/react-native-uking-lottie#readme",
+  "devDependencies": {
+    "react": "^16.0.0",
+    "react-native": "^0.51.0",
+    "react-native-safe-module": "^1.1.0"
+  }
+}
