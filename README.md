@@ -36,4 +36,6 @@ pod install:
 ```
 and run  `pod install`
 
+## Install Document
 
+http://airbnb.io/lottie/react-native/react-native.html#getting-started
