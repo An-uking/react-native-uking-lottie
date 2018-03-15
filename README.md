@@ -15,6 +15,7 @@ Lottie-Android(android) GIT: https://github.com/airbnb/lottie-android.git
 ###npm or yarn 
 
 yarn add react-native-safe-module
+
 yarn add react-native-uking-lottie
 
 ##ANDROID
